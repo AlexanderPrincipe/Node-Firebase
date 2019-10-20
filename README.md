@@ -1,1 +1,1 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="C:\proyectosAP\node-firebase\node-firebase-example-f2750-firebase-adminsdk-3omr3-10fe3ae01a.json"
+![image](https://user-images.githubusercontent.com/31213239/67161410-d84d6f80-f31f-11e9-894f-193917acfefc.png)
